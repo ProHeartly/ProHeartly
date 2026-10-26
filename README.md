@@ -1,1 +1,1 @@
-![hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=24287&api_domain=hackatime.hackclub.com&theme=shadow_green&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+https://github-readme-stats.hackclub.dev/api/wakatime?username=24287&api_domain=hackatime.hackclub.com&theme=github_dark_dimmed&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
